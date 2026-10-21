@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Qdrant local data
+qdrant_data/
+
+# SQLite database
+*.db
+
+# Audio dataset (fichiers lourds)
+data/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
